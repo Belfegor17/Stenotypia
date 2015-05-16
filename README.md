@@ -1,0 +1,2 @@
+# Stenotypia
+Zmiana długości stringów
